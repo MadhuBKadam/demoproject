@@ -1,1 +1,1 @@
-Welcome to new project
+Welcome to the new project
